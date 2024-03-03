@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(189, 221, 242) !important;
+}
+
+#newNote {
+    height: 50px;
+    max-height: 50px;
+}
+
+#createNote {
+    margin-left: 5px;
+    border-radius: 10px;
+    height: 50px;
+    max-height: 50px;
+}
+#noteList {
+    list-style-type: none;
+    font-size: 30px;
+}
+
+.form-check-label {
+    margin-left: 10px;
+}
